@@ -7,7 +7,7 @@
                 <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pb-14">
                     Do you want to become a developer?
                 </h1>
-                <a 
+                <a
                     href="/blog"
                     class="text-center bg-gray-50 text-gray-700 py-2 px-4 font-bold text-xl uppercase">
                     Read More
@@ -25,16 +25,17 @@
             <h2 class="text-3xl font-extrabold text-gray-600">
                 Struggling to be a better web developer?
             </h2>
-            
+
             <p class="py-8 text-gray-500 text-s">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus.
+                By Prathamesh Rajendrakumar Patil, Created on 31st Mar 2022
+
             </p>
 
             <p class="font-extrabold text-gray-600 text-s pb-9">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente magnam vero nostrum! Perferendis eos molestias porro vero. Vel alias.
+                How to become a developer.
             </p>
 
-            <a 
+            <a
                 href="/blog"
                 class="uppercase bg-blue-500 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
                 Find Out More
@@ -43,7 +44,7 @@
     </div>
 
     <div class="text-center p-15 bg-black text-white">
-        <h2 class="text-2xl pb-5 text-l"> 
+        <h2 class="text-2xl pb-5 text-l">
             I'm an expert in...
         </h2>
 
@@ -57,7 +58,7 @@
             Digital Strategy
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Backend Development
+            Game Development
         </span>
     </div>
 
@@ -71,7 +72,7 @@
         </h2>
 
         <p class="m-auto w-4/5 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque exercitationem saepe enim veritatis, eos temporibus quaerat facere consectetur qui.
+             Register and write your own blogs now!
         </p>
     </div>
 
@@ -79,14 +80,14 @@
         <div class="flex bg-yellow-700 text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
                 <span class="uppercase text-xs">
-                    PHP
+                    What Is Game Development?
                 </span>
 
                 <h3 class="text-xl font-bold py-10">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas necessitatibus dolorum error culpa laboriosam. Enim voluptas earum repudiandae consequuntur ad? Expedita labore aspernatur facilis quasi ex? Nemo hic placeat et?
+                    Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release. While you create a game, it is important to think about the game mechanics, rewards, player engagement and level design. A game developer could be a programmer, a sound designer, an artist, a designer or many other roles available in the industry.
                 </h3>
 
-                <a 
+                <a
                     href=""
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
                     Find Out More
